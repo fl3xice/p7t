@@ -1,6 +1,6 @@
 {
   "name": "p7t",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Publish/Subscribe Pattern library",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
