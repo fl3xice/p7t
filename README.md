@@ -2,7 +2,20 @@
 
 The abbreviation p7t stands for publicist. This library implements the Publish/Subscribe pattern. You can use it for specific projects or moments in the code where you need it.
 
+
+# Install
+
+```shell
+$ yarn add p7t
+```
+or npm
+
+```shell
+$ npm install p7t
+```
+
 # Usage example
+
 
 ```ts
 // Create a channel that can send data with the string type
